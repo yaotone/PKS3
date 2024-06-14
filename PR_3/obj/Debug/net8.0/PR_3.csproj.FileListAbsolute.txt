@@ -1,0 +1,70 @@
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/PR_3.exe
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/PR_3.deps.json
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/PR_3.runtimeconfig.json
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/PR_3.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/PR_3.pdb
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Humanizer.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Npgsql.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/obj/Debug/net8.0/PR_3.csproj.AssemblyReference.cache
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/obj/Debug/net8.0/PR_3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/obj/Debug/net8.0/PR_3.AssemblyInfoInputs.cache
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/obj/Debug/net8.0/PR_3.AssemblyInfo.cs
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/obj/Debug/net8.0/PR_3.csproj.CoreCompileInputs.cache
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/obj/Debug/net8.0/PR_3.csproj.Up2Date
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/obj/Debug/net8.0/PR_3.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/obj/Debug/net8.0/refint/PR_3.dll
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/obj/Debug/net8.0/PR_3.pdb
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/obj/Debug/net8.0/PR_3.genruntimeconfig.cache
+C:/Users/arsen/Desktop/mirea/Програм.корпарат.систем/4 семестр/PR_3/PR_3/obj/Debug/net8.0/ref/PR_3.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/obj/Debug/net8.0/PR_3.csproj.AssemblyReference.cache
+/Users/bobalfred/Desktop/Pks3-main/PR_3/obj/Debug/net8.0/PR_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bobalfred/Desktop/Pks3-main/PR_3/obj/Debug/net8.0/PR_3.AssemblyInfoInputs.cache
+/Users/bobalfred/Desktop/Pks3-main/PR_3/obj/Debug/net8.0/PR_3.AssemblyInfo.cs
+/Users/bobalfred/Desktop/Pks3-main/PR_3/obj/Debug/net8.0/PR_3.csproj.CoreCompileInputs.cache
+/Users/bobalfred/Desktop/Pks3-main/PR_3/obj/Debug/net8.0/PR_3.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/obj/Debug/net8.0/refint/PR_3.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/obj/Debug/net8.0/PR_3.pdb
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/PR_3
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/PR_3.deps.json
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/PR_3.runtimeconfig.json
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/PR_3.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/PR_3.pdb
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Humanizer.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Npgsql.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/bin/Debug/net8.0/System.CodeDom.dll
+/Users/bobalfred/Desktop/Pks3-main/PR_3/obj/Debug/net8.0/PR_3.csproj.Up2Date
+/Users/bobalfred/Desktop/Pks3-main/PR_3/obj/Debug/net8.0/PR_3.genruntimeconfig.cache
+/Users/bobalfred/Desktop/Pks3-main/PR_3/obj/Debug/net8.0/ref/PR_3.dll
